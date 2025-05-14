@@ -8,4 +8,14 @@
 Инструменты: solidworks, kicad, шестигранник, паяльник.
 
 Трудности: перекрутка проводов, небольшой люфт, крепление датчиков холла. В основном решены.
+
 ![photo_2025-05-14_00-10-38](https://github.com/user-attachments/assets/a1893da8-0bb3-43e1-8b27-56f0f13e6e30)
+
+
+![photo_2025-05-10_17-09-08](https://github.com/user-attachments/assets/533481c6-2017-4700-a09d-4d65c6c5997d)
+
+
+https://github.com/user-attachments/assets/a26288a7-7bdc-401f-adb5-59ec2774fa0a
+
+
+
